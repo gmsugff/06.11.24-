@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(132,41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(136,36): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(192,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(218,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(224,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(249,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp.h(115,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\User\source\repos\p32bx06.11.24\p32bx06.11.24\Source.cpp(57,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\User\source\repos\p32bx06.11.24\p32bx06.11.24\Source.cpp(63,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  p32bx06.11.24.vcxproj -> C:\Users\User\source\repos\p32bx06.11.24\x64\Debug\p32bx06.11.24.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
